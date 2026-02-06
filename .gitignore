@@ -1,0 +1,14 @@
+# Ignore the Virtual Environment (Huge folder)
+venv/
+.venv/
+env/
+
+# Ignore Compiled Python files (Junk)
+__pycache__/
+*.pyc
+
+# Ignore Environment Variables (Security)
+.env
+
+# Ignore OS files
+.DS_Store
