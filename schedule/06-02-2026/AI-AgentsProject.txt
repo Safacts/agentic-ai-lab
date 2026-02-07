@@ -1,0 +1,32 @@
+Problem statements:
+
+Agent for personal 
+3 options what you need to track?
+ i- professional journey enhancement
+	-- get the current status from linkdln or files provided, resume, accounts integ and provide a document or summary
+	-- every day track of person technical improvement or goal improvement(can come in 2nd point also)
+	-- automatic post the achieved certificates, badges
+	-- weekly or monthly report on current professional status(statistics can be used)
+	-- suggesting methods to improve from current status to goal status, also giving suggestions for popular technologies if missed to  check which are releveant to goal.with resources(telegram) that are best and free at first and paid value adding certificates
+
+	
+ ii- Daily tasks organization
+	-- email access - to organize or summarize
+	-- Summary of today's work
+	-- calls listening access and prompt to save the important listened points.
+	-- Organizing today's task
+----
+
+Implement strategies:
+
+1. POC on how to implement agents using small test case.
+	i. POC on checking how to implement using opensource
+	ii. Learn the jargon
+	iii. POC on exploring ibm's resources 
+	iv. Identify the similarity model's capabilities
+	v. investigate/learn about various required model capabilities
+2. Real Problem selection 
+	i. understand the feasible problem that can be solved.
+	ii. implement problem solution step by step
+	iii. git update
+	iV. check if another agent can be integrated for multi ai agent implementation.
