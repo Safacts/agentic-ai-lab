@@ -10,7 +10,7 @@ class AgentState(TypedDict):
     messages: Annotated[List[BaseMessage], add_messages]
 
 # Localhost works on Windows too
-llm = ChatOllama(base_url="http://localhost:11434", model="llama3.2", temperature=0)
+llm = ChatOllama(base_url="http://localhost:11434", model="llama3.2:1b", temperature=0)
 llm_with_tools = llm.bind_tools(available_tools)
 
 sys_msg = SystemMessage(content="You are a Weather Reporter. Always use the 'get_weather' tool when asked about weather.")
